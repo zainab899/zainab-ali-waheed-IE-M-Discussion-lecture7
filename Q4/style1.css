@@ -1,0 +1,11 @@
+ ul {
+    list-style-position: outside; 
+    border: 1px solid black; 
+    padding: 7Px;
+    width: 100px;
+  }
+  
+  ul.inside {
+    list-style-position: inside;
+  }
+    
